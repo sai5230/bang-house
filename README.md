@@ -52,4 +52,10 @@ XGBoost comparison
 
 API integration
 
+
 Docker deployment
+
+
+
+## Live Demo
+🔗 https://bang-house-fzrxuhugnhmujgqttaua7b.streamlit.app
